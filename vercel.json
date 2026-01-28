@@ -1,5 +1,6 @@
 {
     "rewrites":[
-        {"source":"/(.*)", "destination":"/Porfile.html" }
+        {"source":"/(.*)", "destination":"/login.html" }
     ]
+
 }
